@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "PIXELATED KISSES",
+  "base_artist": "Joji",
+  "createdAt": "2026-02-25T17:22:51.107390Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PIXELATED KISSES",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/01_PIXELATED_KISSES_Joji.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "PIXELATED KISSES",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/02_PIXELATED_KISSES_Joji.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Joji - PIXELATED KISSES (Visualizer)",
+      "artist": "Video",
+      "has_synced": true,
+      "path": "select/03_Joji_-_PIXELATED_KISSES_(Visualizer)_Video.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "PIXELATED KISSES (Paused)",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/04_PIXELATED_KISSES_(Paused)_Joji.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "PIXELATED KISSES (with Yeat) (Remix)",
+      "artist": "Joji/Yeat",
+      "has_synced": true,
+      "path": "select/05_PIXELATED_KISSES_(with_Yeat)_(Remix)_Joji_Yeat.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "PIXELATED KISSES (with Yeat) (Remix)",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/06_PIXELATED_KISSES_(with_Yeat)_(Remix)_Joji.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PIXELATED KISSES (Remix)",
+      "artist": "Joji, Yeat",
+      "has_synced": true,
+      "path": "select/07_PIXELATED_KISSES_(Remix)_Joji,_Yeat.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "PIXELATED KISSES (Remix)",
+      "artist": "Joji and Yeat",
+      "has_synced": true,
+      "path": "select/08_PIXELATED_KISSES_(Remix)_Joji_and_Yeat.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "PIXELATED KISSES (remix)",
+      "artist": "Joji with Yeat",
+      "has_synced": true,
+      "path": "select/09_PIXELATED_KISSES_(remix)_Joji_with_Yeat.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "PIXELATED KISSES (Visualizer)",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/10_PIXELATED_KISSES_(Visualizer)_Joji.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "PIXELATED KISSES (Remix)",
+      "artist": "Joji & Yeat",
+      "has_synced": true,
+      "path": "select/11_PIXELATED_KISSES_(Remix)_Joji_&_Yeat.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PIXELATED KISSES",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/pl_01_PIXELATED_KISSES_Joji.txt"
+    }
+  ]
+}
